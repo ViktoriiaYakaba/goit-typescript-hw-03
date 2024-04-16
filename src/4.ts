@@ -12,6 +12,24 @@
 
 Наприклад, ось так: */
 
+class Key{
+
+}
+
+class Person{
+
+}
+
+class House{
+
+}
+
+class MyHouse{
+    
+}
+
+
+
 const key = new Key();
 
 const house = new MyHouse(key);
